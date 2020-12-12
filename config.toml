@@ -1,5 +1,5 @@
 title = "Harbor"
-baseURL = "https://goharbor.io"
+baseURL = "https://heuristic-elion-3b2f25.netlify.app"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["README.md"]
 
@@ -10,7 +10,7 @@ intro = "Want to know more about what Harbor is and how it works? Watch this int
 font_awesome_version = "5.12.0"
 favicon = "favicon.png"
 cncf_status = "Graduated"
-repo = "goharbor/harbor"
+repo = "nate-double-u/goharbor-website"
 twitter = "project_harbor"
 slack = "https://cloud-native.slack.com/messages/harbor"
 github = "https://github.com/goharbor/harbor"
